@@ -3,7 +3,7 @@
 # By Kreezy(KRosa) 1.21.2018
 
 // If using this demo code as is:
-// Create a password on your device 
+// Create a password on your PC or Android Device 
 // Make the password - PasswordNoobz
 // When device prompts for password
 // make sure cursor is on password field
