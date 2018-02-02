@@ -12,7 +12,6 @@
 // you have 50 seconds to disconnect it before it loops again
 
 // If using for your own username and/or password:
-// Just delete the //'s on the username section of code 
-// to add a username to enter into the device
+// Just uncomment the username section of code to add a username to enter into the device
 // Change the stock password with your own
 // Plug in the Pro Micro and it will enter your login info 
